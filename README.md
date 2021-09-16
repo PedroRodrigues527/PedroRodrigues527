@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pedro Rodrigues
-<!---
-- 👀 I’m interested in Web and Software Development, Networking, and Informatic security
---->
+
+- 👀 I’m interested in Web and Software Development
+
 - 🌱 I’m currently studying Informatic Engineering
 <!--- 
 - 💞️ I’m looking to collaborate on ...
