@@ -4,7 +4,7 @@
 
 🌱 I’m currently studying Informatic Engineering
 
-⚡ Fun fact: I have a passion for pure and applied mathematics, history and all things related about computers 
+⚡ Me fact: I have a passion for pure and applied mathematics, history and all things related about computers 
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
@@ -40,13 +40,6 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [twitter]: https://twitter.com/pedro_miguel527
