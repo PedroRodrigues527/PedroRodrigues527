@@ -16,12 +16,13 @@ PedroRodrigues527/PedroRodrigues527 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Connect with me:
+### Social Media:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 
 ### Languages and Tools:
 
