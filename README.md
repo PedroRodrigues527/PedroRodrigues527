@@ -45,6 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 
 [twitter]: https://twitter.com/pedro_miguel527
-[youtube]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg
+[youtube]: https://www.youtube.com/channel/UCNKE4DSUTNvf2CM8NJK9e0Q
 [linkedin]: https://www.linkedin.com/in/pedro-rodrigues-268206226/
 
