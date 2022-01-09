@@ -4,7 +4,7 @@
 
 🌱 I’m currently studying Informatic Engineering
 
-⚡ Me fact: I have a passion for pure and applied mathematics, history and all things related about computers 
+⚡ Me fact: I have a passion for pure and applied mathematics, history and all things related about computers. And i like to read o<o
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
