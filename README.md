@@ -4,7 +4,7 @@
 
 🌱 I’m currently studying Informatic Engineering
 
-⚡ Me fact: I have a passion for pure and applied mathematics, history and all things related about computers. And i like to read o<o
+⚡ Me fact: I have a passion for pure and applied mathematics, history and all things related about computers. And i like to read o.o
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+To know i what books i read check out: https://www.goodreads.com/user/show/144818564-maxin
 <br />
 
 ### Tools and Programming Languages:
