@@ -9,7 +9,7 @@
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 --->
-📫 How to reach me pedro.miguel.rodrigues00@gmail.com
+📫 You can reach me in pedro.miguel.rodrigues00@gmail.com
 
 <!---
 PedroRodrigues527/PedroRodrigues527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
