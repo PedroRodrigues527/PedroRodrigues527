@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
 To know i what books i read check out: https://www.goodreads.com/user/show/144818564-maxin
 <br />
 
+### Operative System:
+<img align="left" alt="Cpp" width="26px" src="https://img2.gratispng.com/20180810/hat/kisspng-penguin-logo-linux-brand-font-difference-between-linux-and-window-operating-syst-5b6d4985beb4f4.2248640515338889017811.jpg" />
+
 ### Tools and Programming Languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" />
