@@ -26,7 +26,7 @@ To know i what books i read check out: https://www.goodreads.com/user/show/14481
 <br />
 
 ### Operative System:
-<img align="left" alt="Cpp" width="26px" src="https://img2.gratispng.com/20180810/hat/kisspng-penguin-logo-linux-brand-font-difference-between-linux-and-window-operating-syst-5b6d4985beb4f4.2248640515338889017811.jpg" />
+<img align="left" alt="Cpp" width="26px" src="https://w7.pngwing.com/pngs/911/217/png-transparent-linux-tux-logo-linux-logo-windows-bird.png" />
 <br />
 
 ### Tools and Programming Languages:
