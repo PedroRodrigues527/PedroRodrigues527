@@ -27,7 +27,7 @@ To know i what books i read check out: https://www.goodreads.com/user/show/14481
 
 ### Operative System:
 <img align="left" alt="Cpp" width="30px" src="https://pngset.com/images/linux-logo-linux-logo-background-sack-bag-fire-lcd-screen-transparent-png-1379344.png" />
-<img align="left" alt="Cpp" width="30px" src="https://wallpaperforu.com/wp-content/uploads/2021/02/abstract-wallpaper-2102021935322.jpg" />
+<img align="left" alt="Cpp" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25719.png" />
 <br />
 
 ### Tools and Programming Languages:
