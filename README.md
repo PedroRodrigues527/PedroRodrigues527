@@ -26,7 +26,7 @@ To know i what books i read check out: https://www.goodreads.com/user/show/14481
 <br />
 
 ### Operative System:
-<img align="left" alt="Cpp" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25719.png" />
+<img align="left" alt="Cpp" width="30px" src="https://cdn-icons.flaticon.com/png/512/2333/premium/2333187.png?token=exp=1644514935~hmac=2c63969d559de825f7f1bc2cf1bc84ab" />
 <br />
 
 ### Tools and Programming Languages:
