@@ -31,7 +31,8 @@ To know i what books i read check out: https://www.goodreads.com/user/show/14481
 
 ### Tools and Programming Languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" />
+<img align="left" alt="PHPstorm" width="26px" src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" />
+<img align="left" alt="PHPstorm" width="26px" src="https://wingware.com/images/header-logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
