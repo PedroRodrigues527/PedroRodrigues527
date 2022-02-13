@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Social Media:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/2190/premium/2190403.png?token=exp=1644515027~hmac=300ab29518f7c5de370040cc6a74d241" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644515002~hmac=620950ac96878554353395b072431fdb" />][linkedin]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/2190/premium/2190403.png?token=exp=1644515027~hmac=300ab29518f7c5de370040cc6a74d241" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644515002~hmac=620950ac96878554353395b072431fdb" />][linkedin]
 
 To know i what books i read check out: https://www.goodreads.com/user/show/144818564-maxin
 <br />
