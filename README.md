@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 
+<br />
+
 ### Operative System:
 <img align="left" alt="Cpp" width="30px" src="https://cdn-icons.flaticon.com/png/512/2333/premium/2333187.png?token=exp=1644514935~hmac=2c63969d559de825f7f1bc2cf1bc84ab" />
 <br />
