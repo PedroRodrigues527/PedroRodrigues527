@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Operative System:
 <img align="left" alt="Cpp" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />
+<img align="left" alt="Cpp" width="30px" src="https://img.icons8.com/color/344/debian.png" />
+
 <br />
 
 ### Tools and Programming Languages:
