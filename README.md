@@ -1,6 +1,6 @@
 👋 Hi, I’m Pedro Rodrigues
 
-👀 I’m interested in Web and Software Development
+👀 I’m interested in Web and Software Development (Programming in general)
 
 🌱 I’m currently studying Informatic Engineering
 
