@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-### Tools and Programming Languages:
+### Tools and Programming Languages that i love the most:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="PHPstorm" width="26px" src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" />
 <img align="left" alt="PHPstorm" width="26px" src="http://wingware.com/images/title-logo-social-media.png" />
@@ -40,7 +40,8 @@ You can click the Preview link to take a look at your changes.
 <!---[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] ---->
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="php" width="26px" src="https://cdn-icons-png.flaticon.com/512/528/528261.png" />
-<img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+<!---
+<img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />--->
 <img align="left" alt="Cpp" width="26px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />
 <img align="left" alt="python" width="26px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
 <img align="left" alt="terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919837.png" />
