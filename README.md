@@ -24,12 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-### Operative System:
-<img align="left" alt="Cpp" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />
-<img align="left" alt="Cpp" width="30px" src="https://img.icons8.com/color/344/debian.png" />
-
-<br />
-
 ### Tools and Programming Languages that i love the most:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="PHPstorm" width="26px" src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" />
