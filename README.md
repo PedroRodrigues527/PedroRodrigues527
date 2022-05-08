@@ -2,7 +2,7 @@
 
 👀 I’m interested in Web and Software Development
 
-🌱 I’m currently studying Informatic Engineering
+✨ I’m currently studying Informatic Engineering
 
 ⚡ Me fact: I have a passion for Mathematics, History and all things related about computers. And i like to read o.o
 
