@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="php" width="26px" src="https://cdn-icons-png.flaticon.com/512/528/528261.png" />
 <!---
 <img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />--->
-<img align="left" alt="Cpp" width="26px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />
+<img align="left" alt="Cpp" width="26px" src="[https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png](https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png)" />
 <img align="left" alt="python" width="26px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
 <!---<img align="left" alt="terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919837.png" />--->
 <img align="left" alt="java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
