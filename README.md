@@ -16,6 +16,8 @@ PedroRodrigues527/PedroRodrigues527 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRodrigues527&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Social Media:
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
