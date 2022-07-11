@@ -2,7 +2,7 @@
 
 👀 I’m interested in Web/Software Development, web3 and Neural Networks
 
-✨ I’m currently studying Informatic Engineering
+✨ I’m currently working with React.js and Laravel!
 
 ⚡ Me fact: I have a passion for Mathematics, History and all things related about computers. And i like to read o.o
 
