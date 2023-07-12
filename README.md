@@ -31,7 +31,7 @@
 
 ### Tools and Languages that i've used and those that i like:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="cpp" width="26px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/a2aaa79e-ab60-4175-abb9-3ac8d11ca38b" />
+<img align="left" alt="cpp" width="26px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/0503c62e-ba7d-4f69-81e2-7cc5047c9902" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -45,11 +45,10 @@
 
 ### Favorite frameworks:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="laravel" width="26px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/9be65a7f-6d06-4977-a6ea-b863939d6f3d" />
-<img align="left" alt="taiwind" width="200px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/6f1bf606-97f1-4e5d-9caa-839f5e9aef0f" />
+<img align="left" alt="laravel" width="26px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/37802eb0-419d-45aa-acb5-9b55c090d917" />
+<img align="left" alt="taiwind" width="100px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/96f7ab89-481b-4029-af7e-3eef3ffbd847" />
 
 <br />
-
 
 [twitter]: https://twitter.com/pedro_miguel527
 [youtube]: https://www.youtube.com/channel/UCNKE4DSUTNvf2CM8NJK9e0Q
