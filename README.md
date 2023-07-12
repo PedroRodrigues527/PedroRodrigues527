@@ -1,12 +1,10 @@
-👋 Hi, I’m Pedro Rodrigues
+👋 Hi, I’m Pedro Rodrigues. I have expirience working FullStack with javascript (+ react) and also Laravel. I've developed, numerous projects, using those languages.
 
-<!--- 
-👀 I’m interested in Web/Software Development, web3 and Neural Networks
---->
+👀 I’m interested in developing emulators with C++ and Fullstack applications
 
-✨ I’m currently working with React.js and Laravel!
+✨ I’m currently working on emulation with C++, still on primitive phase!
 
-⚡ Me fact: I have a passion for Mathematics, History and all things related about computers. And i like to read o.o
+⚡ Me fact: I have a passion for Mathematics, Science, History and all things related about computers.
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
@@ -31,20 +29,25 @@
 
 <br />
 
-### Tools and Programming Languages that i love the most:
+### Tools and Languages that i've used and those that i like:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="cpp" width="26px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/a2aaa79e-ab60-4175-abb9-3ac8d11ca38b" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="php" width="26px" src="https://cdn-icons-png.flaticon.com/512/528/528261.png" />
-
 <img align="left" alt="python" width="26px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
-<img align="left" alt="java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
+<!---<img align="left" alt="java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />--->
 <!---<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />--->
 
 <br />
+
+### Favorite frameworks:
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="laravel" width="26px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/9be65a7f-6d06-4977-a6ea-b863939d6f3d" />
+<img align="left" alt="taiwind" width="200px" src="https://github.com/PedroRodrigues527/PedroRodrigues527/assets/61146730/6f1bf606-97f1-4e5d-9caa-839f5e9aef0f" />
+
 <br />
 
 
