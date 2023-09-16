@@ -1,4 +1,4 @@
-👋 Hi, I’m Pedro Rodrigues. I have expirience working FullStack with javascript (+ react) and also Laravel. I've developed, numerous projects, using those languages.
+👋 Hi, I’m Pedro Rodrigues. I have experience working FullStack with javascript (+ react) and also Laravel. I've developed, numerous projects, using those languages.
 
 👀 I’m interested in developing emulators with C++ and Fullstack applications
 
