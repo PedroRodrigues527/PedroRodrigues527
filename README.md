@@ -1,8 +1,10 @@
-👋 Hi, I’m Pedro Rodrigues. I have experience working FullStack with javascript (+ react) and also Laravel. I've developed, numerous projects, using those languages.
+👋 Hi, I’m Pedro Rodrigues. I am a Software Developer with professional experience working in FullStack.
 
 👀 I’m interested in developing emulators with C++ and Fullstack applications
 
-✨ I’m currently working on emulation with C++, still on primitive phase!
+✨ I’m currently working for the first time on emulation with C++, the project is still on primitive phase due to university workload!
+<br>
+(I pretend to return in the near future)
 
 ⚡ Me fact: I have a passion for Mathematics, Science, History and all things related about computers.
 
