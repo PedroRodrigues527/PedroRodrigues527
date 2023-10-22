@@ -16,12 +16,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroRodrigues527&show_icons=true&theme=radical" />
 </a> --->
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats" height="30px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodrigues527&layout=compact&show_icons=true&theme=radical" />
 </a>
+-->
 
-### Tools and Languages that i've used and those that i like:
-<img src="https://skillicons.dev/icons?i=vscode,cpp,html,css,js,react,php,laravel,py,tailwind,git,docker,linux" />
+### Favorite Languages
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,py," />
 <br />
+
+### Favorite Frameworks/Libraries/Tools
+<img src="https://skillicons.dev/icons?i=vscode,react,laravel,tailwind,git,docker,linux" />
+<br />
+
 
 
