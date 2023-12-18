@@ -29,7 +29,7 @@
 <br />
 
 ### Favorite Frameworks/Libraries/Tools
-<img src="https://skillicons.dev/icons?i=vscode,react,laravel,tailwind,git,docker,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,react,laravel,tailwind,git,docker,kubernetes,linux" />
 <br />
 
 
