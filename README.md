@@ -25,7 +25,7 @@
 -->
 
 ### Favorite Languages
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,py," />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,ts,js,php,py," />
 <br />
 
 ### Favorite Frameworks/Libraries/Tools
