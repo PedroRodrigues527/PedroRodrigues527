@@ -4,9 +4,7 @@
 
 ✨ I’m currently working on a emulation of a CPU with C++
 
-⚡ Me fact: I have a passion for Mathematics, Science, History and all things related about computers.
-
-📫 You can reach me in pedro.miguel.rodrigues00@gmail.com
+⚡ I have a passion for Mathematics, Science, History and all things related about computers.
 
 ### Favorite Languages
 <img src="https://skillicons.dev/icons?i=cpp,html,css,ts,js,php,py," />
