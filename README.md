@@ -4,7 +4,7 @@
 
 ✨ I’m currently developing a CPU emulation with C++
 
-⚡ I have a passion for History, Mathematics, Programing, ML, Computers in general, and old languages (like latin/greek).
+⚡ I have a passion for History, Mathematics, Programing, ML, Computers in general, and old languages (like latin).
 
 ### Favorite Languages
 <img src="https://skillicons.dev/icons?i=cpp,html,css,ts,js,php,py," />
