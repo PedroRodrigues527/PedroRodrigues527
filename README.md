@@ -4,7 +4,7 @@
 
 ✨ I’m currently working with php and javascript. And as hobby i'm developing a CPU emulation with C++.
 
-⚡ I have a passion for History, Mathematics, Programing, ML, Computers in general, and old idioms (eg. latin).
+⚡ I have a passion for History, Mathematics, Programing, Data Science, Computers in general, and old idioms (eg. latin).
 
 ### Used Languages / Favorite languages
 <img src="https://skillicons.dev/icons?i=js,php,py,ts,cpp,html,css" />
