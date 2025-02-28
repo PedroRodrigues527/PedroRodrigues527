@@ -1,15 +1,15 @@
-👋 Hi, I’m Pedro Rodrigues. I am a Software Developer with professional experience in FullStack.
+👋 Hi, I’m Pedro Rodrigues. I am a Software Developer with professional experience in FullStack development. Currently pursing the MSc in Informatics Engineering, with the thesis related with machine learning forecast.
 
-<!--👀 I’m interested in developing emulators with C++ and Fullstack applications -->
+<!-- 👀 I’m interested in developing emulators with C++ and Fullstack applications -->
 
-✨ I’m currently developing a CPU emulation with C++
+✨ I’m currently working with php and javascript. And as hobby i'm developing a CPU emulation with C++.
 
-⚡ I have a passion for History, Mathematics, Programing, ML, Computers in general, and old languages (like latin).
+⚡ I have a passion for History, Mathematics, Programing, ML, Computers in general, and old idioms (eg. latin).
 
-### Favorite Languages
-<img src="https://skillicons.dev/icons?i=cpp,html,css,ts,js,php,py," />
+### Used Languages / Favorite languages
+<img src="https://skillicons.dev/icons?i=js,php,py,ts,cpp,html,css" />
 <br />
 
-### Favorite Frameworks/Libraries/Tools
-<img src="https://skillicons.dev/icons?i=vscode,react,laravel,tailwind,git,docker,kubernetes,linux" />
+### Frameworks/Libraries/Tools used
+<img src="https://skillicons.dev/icons?i=jquery,react,laravel,tailwind,git,docker,kubernetes,linux" />
 <br />
