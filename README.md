@@ -11,5 +11,5 @@
 <br />
 
 ### Frameworks/Libraries/Tools used
-<img src="https://skillicons.dev/icons?i=jquery,react,laravel,tailwind,git,docker,kubernetes,linux,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=jquery,react,laravel,tailwind,git,docker,kubernetes,linux,tensorflow,nodejs,mongodb" />
 <br />
