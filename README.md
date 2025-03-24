@@ -7,7 +7,7 @@
 ⚡ I have a passion for History, Mathematics, Programing, Data Science, Computers in general, and old idioms (eg. latin).
 
 ### Used Languages / Favorite languages
-<img src="https://skillicons.dev/icons?i=js,php,py,ts,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=js,php,py,java,ts,cpp,html,css" />
 <br />
 
 ### Frameworks/Libraries/Tools used
